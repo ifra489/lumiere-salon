@@ -1,4 +1,4 @@
-# ✂️ Lumière — Premium Saloon Landing Page
+# ✂️ Lumière , Premium Saloon Landing Page
  
 A salon landing page built with **React + Three.js**, featuring an interactive 3D hero, glitch typography, custom cursor, and a working booking form.
  
